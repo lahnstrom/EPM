@@ -1,12 +1,15 @@
-"","Beslut"
-"1","Avskriven"
-"2","Avskriven (återtagen ansökan)"
-"3","Avslag"
-"4","Avvisad"
-"5","Avvisad (annan orsak)"
-"6","Avvisad (ej avgift/underskrift)"
-"7","Delvis godkänd eller godkänd med villkor"
-"8","Godkänd"
-"9","Godkänd med villkor"
-"10","Rådgivande yttrande"
-"11","Överlämnad"
+"Avgiftskategori","mean","sd","n"
+"Befintliga personuppgifter, 5000",48.8377088305489,29.6971960106876,838
+"En forskningshuvudman, 5000",54.8782263401721,30.4259560858729,1511
+"Flera forskningshuvudmän, 16000",57.5606060606061,33.100646329281,132
+"Flera forskningshuvudmän, samband 5000",57.3216374269006,32.9840701249701,171
+"Grundansökan LÄK",63.35,12.2423183659942,40
+"Grundansökan MT - 70.7a",20.5333333333333,9.4102274654963,15
+"Grundansökan MT - 70.7b",49.9166666666667,17.8807073956736,12
+"Grundansökan MT - 74.1",20.125,6.26640703616172,8
+"Läkemedelsprövning, 16000",54.5,27.9619592597545,164
+"Ändringsansökan LÄK",62,0,2
+"Ändringsansökan MT - 70.7a",24.75,7.76208734813001,4
+"Ändringsansökan MT - 70.7b",14.25,9.9121138007995,4
+"Ändringsansökan MT - 74.1",7.28571428571429,4.27060829836866,7
+"Ändringsansökan, 2000",28.2618517340121,20.7249537935869,3143

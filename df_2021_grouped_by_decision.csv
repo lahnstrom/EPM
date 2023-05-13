@@ -1,7 +1,14 @@
-"","n"
-"1",1429
-"2",148
-"3",154
-"4",1029
-"5",166
-"6",3017
+"Typ.av.slutligt.beslut","mean","sd","n"
+"Beslutad, avskriven (återtagen ansökan)",54.7241379310345,28.8504723305283,29
+"Beslutad, avslag",52.8239436619718,35.5568268167085,142
+"Beslutad, avvisad (annan orsak)",41.82,27.7780488875659,50
+"Beslutad, avvisad (ingen avgift/underskrift)",81.3478260869565,31.2855015733431,23
+"Beslutad, delvis godkänd (eller med villkor)",52.7365591397849,35.3782718015458,186
+"Beslutad, förnyad prövning",78,NA,1
+"Beslutad, godkänd",40.6792217510601,27.122225932138,4009
+"Beslutad, godkänd - stråldos",81.5,27.1710630389513,16
+"Beslutad, godkänd med villkor",46.4057142857143,29.4552302356524,1225
+"Beslutad, komplettering till ordförande",79,NA,1
+"Beslutad, komplettering till sammanträde",46,NA,1
+"Beslutad, rådgivande yttrande",42.1766917293233,27.2093696049185,266
+"Beslutad, överlämnad",78,NA,1

@@ -51,11 +51,10 @@ df_2022_grouped_by_decision <-
 
 #######OUT#########
 
-outputs <- c(df_2020_grouped_by_fee,df_2020_grouped_by_decision,df_2021_grouped_by_fee,df_2021_grouped_by_decision,df_2022_grouped_by_fee,df_2022_grouped_by_decision)
+outputs <- list(df_2020_grouped_by_fee,df_2020_grouped_by_decision,df_2021_grouped_by_fee,df_2021_grouped_by_decision,df_2022_grouped_by_fee,df_2022_grouped_by_decision)
 output_names <- c("df_2020_grouped_by_fee.csv","df_2020_grouped_by_decision.csv","df_2021_grouped_by_fee.csv","df_2021_grouped_by_decision.csv","df_2022_grouped_by_fee.csv","df_2022_grouped_by_decision.csv")
 
 for (i in 1:6) {
-  write.csv(outputs[i], output_names[i])
+  write.csv(outputs[i], output_names[i], row.names = F)
 }
 
-write.csv()

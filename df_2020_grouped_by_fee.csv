@@ -1,7 +1,7 @@
-"","Avgiftskategori"
-"1","A En huvudman"
-"2","B Flera huvudmän"
-"3","C Flera huvudmän – samband"
-"4","D Personuppgifter"
-"5","E Klinisk läkemedel"
-"6","F Ändringsansökan"
+"Avgiftskategori","mean","sd","n"
+"A En huvudman",74.6997900629811,39.7818298290782,1429
+"B Flera huvudmän",77.2297297297297,42.4403694667079,148
+"C Flera huvudmän – samband",75.961038961039,43.2684103574561,154
+"D Personuppgifter",68.5957240038873,36.695691245937,1029
+"E Klinisk läkemedel",69.710843373494,39.7467834019253,166
+"F Ändringsansökan",39.6682134570766,27.4041909614479,3017
